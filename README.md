@@ -1,1 +1,1 @@
-want to contact me ? Please follow this link : [link](https://diesos.github.io/resume/) :)
+Want to contact me ? Please follow this : [link](https://diesos.github.io/resume/) :)

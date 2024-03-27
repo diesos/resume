@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Omer Ozturk
+N:Ozturk;Omer;;;
+item1.EMAIL;TYPE=INTERNET:ozturk@live.fr
+item1.X-ABLabel:
+item2.TEL:06 69 21 15 13
+item2.X-ABLabel:
+PHOTO:https://lh3.googleusercontent.com/contacts/AG6tpzFCeVuD97IyFvMEnW8An9
+ f108cEFcqdRggGQkP3WNQG3AwgPbb1
+CATEGORIES:myContacts
+END:VCARD

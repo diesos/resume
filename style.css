@@ -103,7 +103,14 @@ ul {
 
 .landingLinks h1 {
   text-align: center;
-  margin: 30px;
+  margin: 30px 30px 10px;
+}
+
+.tagline {
+  text-align: center;
+  color: #aab4bf;
+  margin: 0 20px 20px;
+  line-height: 1.5;
 }
 
 .landingLinks > img {
@@ -130,10 +137,12 @@ ul {
   transform: scale(1.02);
 }
 
-.firstList li img {
+.firstList li img,
+.firstList li .ico {
   object-fit: contain;
   max-width: 30px;
   margin: 10px;
+  flex: none;
 }
 
 .firstList > li > a {
@@ -195,7 +204,7 @@ ul {
 }
 
 .firstList .content ul {
-  width: 600px;
+  max-width: 600px;
   margin: auto;
 }
 
